@@ -1,0 +1,33 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "vaults_previsaobikes1939986595_name": {
+            "value": null
+        },
+        "components_previsaobikes8269651931_name": {
+            "value": null
+        },
+        "storageAccounts_previsaobikes3713768919_name": {
+            "value": null
+        },
+        "workspaces_Previsao_Bikes_name": {
+            "value": null
+        },
+        "workspaces_previsaobikes1811161849_name": {
+            "value": null
+        },
+        "registries_f815a5a9d85842c88697d68a2f088a04_name": {
+            "value": null
+        },
+        "containerGroups_prever_alugueis_qaUV_FjYyEKGl9aKLwiKBA_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___previsaobikes8269651931_name": {
+            "value": null
+        },
+        "actiongroups_application_insights_smart_detection_externalid": {
+            "value": null
+        }
+    }
+}
